@@ -1,6 +1,6 @@
 # Raquel Carvalho
 
-<kbd><b><h3>Estudante de Engenharia da Computação</h3></b></kbd>
+<kbd><b>&nbsp;&nbsp;Estudante de Engenharia da Computação&nbsp;&nbsp;</b></kbd>
 
 Sou uma pessoa autodidata com grande curiosidade por aprender e melhorar. Me dedico a estudar códigos e gosto de compartilhar minhas ideias e conhecimentos. Estou focada no crescimento da minha carreira no setor de tecnologia e também gosto de transformar minhas ideias em soluções para desafios do dia a dia. Estou empenhada em aperfeiçoar e adquirir competências no LeetCode para aumentar minhas capacidades de resolução de problemas.
 
