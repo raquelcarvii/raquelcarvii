@@ -21,4 +21,5 @@ I'm a self-taught person with a strong curiosity to learn and improve. I dedicat
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/swagger/swagger-icon.svg" width="40" height="40"/>
 </p>
