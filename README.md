@@ -9,19 +9,14 @@ Sou uma pessoa autodidata com grande curiosidade por aprender e melhorar. Me ded
 ## 🧰 Languages and Tools
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" title="Java"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" title="Spring"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" title="MongoDB"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" title="PostgreSQL"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" title="GitHub"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" title="Docker"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="30" title="Arduino"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
+<img src="https://maven.apache.org/images/maven-logo-black-on-white.png" width="60" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/swagger/swagger-icon.svg" width="40" height="40"/>
 </p>
